@@ -1,0 +1,6 @@
+//데이터 엑세스 로직
+//JPA,
+
+//EF Core 형식(DbContext, Migration)
+//데이터 액세스 구현 형식(리포지토리)
+//인프라 관련 서비스(예: FileLogger 또는 SmtpNotifier)

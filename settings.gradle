@@ -1,0 +1,5 @@
+rootProject.name = 'springBootDDDSample'
+include 'Web'
+include 'ApplicationCore'
+include 'Infrastructure'
+
